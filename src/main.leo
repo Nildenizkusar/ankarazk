@@ -1,5 +1,5 @@
-// The 'templateankara' program.
-program templateankara.aleo {
+// The 'templateankara42345789' program.
+program templateankara42345789.aleo {
     mapping account: address => u64;
 
     record token {
